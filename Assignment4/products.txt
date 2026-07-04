@@ -1,0 +1,3 @@
+face wash | 150
+body lotion | 200
+face cream | 250
